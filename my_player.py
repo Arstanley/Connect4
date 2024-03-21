@@ -1,5 +1,4 @@
 from player import Player
-import random
 import numpy as np
 
 class minimaxPlayer(Player):
